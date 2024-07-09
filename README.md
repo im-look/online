@@ -1,7 +1,3 @@
 # online
 
-[START]
-
-r5+KRks3L+w+FEzdLFKpqw==
-
-[END]
+[START]r5+KRks3L+w+FEzdLFKpqw==[END]
